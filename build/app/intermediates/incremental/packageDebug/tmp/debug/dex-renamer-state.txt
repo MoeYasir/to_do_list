@@ -1,0 +1,4 @@
+#Tue Mar 19 00:29:02 CAT 2024
+base.0=/Users/mohammedyasir/Documents/GitHub/to_do_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
